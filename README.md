@@ -1,6 +1,6 @@
 ## Welcome to Karen's Sample Site
 
-**Hello, Nice to Meet You All!**
+**Hello, nice to meet you all!**
 
 My name is Karen, and I am an aspiring web developer! I am a pun enthusiast, curious explorer, and a superhero lover.
 
