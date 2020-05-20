@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Karen's Sample Project Site
 
-You can use the [editor on GitHub](https://github.com/karenha/karenha.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Hello, nice to meet you all!**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Karen, and I am an aspiring web developer! I am a pun/wit/humor enthusiast, curious explorer, and a superhero lover.
 
-Markdown
+When I worked in a lab and had to code to sort organisms, I absolutely fell in love with coding and even went on to help the rest of my lab mates. This experience combined with my cybersecurity studies abroad at Cambridge made me realize that there is so much room to grow in the technology field. I am a late bloomer, but I am still excited to be part of it. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hope everybody is staying healthy, safe, and positive during this time. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karenha/karenha.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for dropping by!
